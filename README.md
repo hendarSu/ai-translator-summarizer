@@ -1,5 +1,8 @@
 # ai-translator-summarizer
 
+## Application Interface
+![alt text](image.png)
+
 ## Configuration
 
 Before running the application, ensure you have configured the following:
