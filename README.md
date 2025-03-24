@@ -1,5 +1,7 @@
 # ai-translator-summarizer
 
+ai-translator-summarizer adalah aplikasi yang menggunakan teknologi AI untuk menerjemahkan dan merangkum teks secara otomatis. Aplikasi ini memanfaatkan API OpenAI untuk pemrosesan bahasa alami dan integrasi dengan layanan Google untuk autentikasi pengguna.
+
 ## Application Interface
 ![alt text](image.png)
 
